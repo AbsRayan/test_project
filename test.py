@@ -1,1 +1,2 @@
-print("jdjd")
+def hellowho(name):
+    print(f"hello, {name}")
