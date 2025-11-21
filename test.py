@@ -1,2 +1,2 @@
 def hellowho(name):
-    print(f"hello, {name}")
+    print(f"hel, {name}")
